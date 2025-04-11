@@ -1,0 +1,5 @@
+inter_name=input("enter your name:")
+inter_age=input("enter your age:")
+inter_DOB=input("enter your DOB:")
+inter_favouritehobby=input("enter your favourite hobby:")
+print("inter_name")

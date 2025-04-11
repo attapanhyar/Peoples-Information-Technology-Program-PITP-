@@ -1,0 +1,5 @@
+2024-10-09 15:43:59 DEBUG this is a debug message
+2024-10-09 15:43:59 INFO this is logging info
+2024-10-09 15:43:59 WARNING This is logging warning
+2024-10-09 15:43:59 ERROR This is a logging error
+2024-10-09 15:43:59 CRITICAL this is a critical message

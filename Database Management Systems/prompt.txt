@@ -1,0 +1,1 @@
+create slides for week 01, day 03 for the course. Take input the doucments attached and write requisite codes whereever neccessary. the slides must not be less than 20. write sentences rather than just bullets.

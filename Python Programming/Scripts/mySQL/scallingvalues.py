@@ -1,0 +1,3 @@
+from sklearn.preprocessing import StandardScaler  
+scaler = StandardScaler()  
+df_scaled = scaler.fit_transform(df)  

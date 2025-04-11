@@ -1,0 +1,16 @@
+
+
+Compiler based
+Interpreter based
+
+IDE (Integrated Development Environment)
+1. IDLE (by default)
+2. VS Code
+3. PyCharm
+4. Sublime
+Case Sensitive
+Concatenation
+
+
+
+
